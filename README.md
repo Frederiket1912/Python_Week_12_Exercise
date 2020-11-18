@@ -62,7 +62,20 @@ Info about the columns in the data set:
 - Can the plot of the training set explain why our error rate is so bad?
 
 
-**Final musings**
+**Final musings - Should be read after doing the exercises if you want to draw your own conclusions**
+Scroll down to read.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 I think the reason our predictions don't get much better with more dimensions and that our error rate is so bad, is because it's a more messy data set than we saw in the Iris exercise. There isn't a clear relation between age and how long you survive after an operation or between what year the operation took place and how long you survive. It seems adding the third column with "posive_axillery_nodes" to our training set helps a bit and i think that makes sense because that is actually an indication of how sick the person was before the operation. Hence the more sick, the less likely to survive 5+ years. 
 
