@@ -62,7 +62,7 @@ Info about the columns in the data set:
 - Can the plot of the training set explain why our error rate is so bad?
 
 
-**Final musings - Should be read after doing the exercises if you want to draw your own conclusions**
+**Final musings - Should be read after doing the exercises if you want to draw your own conclusions**  
 Scroll down to read.
 <br/>
 <br/>
